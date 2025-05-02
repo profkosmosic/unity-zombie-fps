@@ -1,5 +1,5 @@
 # Zombie FPS game
-Zombie first person shooter game made in Unity.
+Zombie first person shooter game made with Unity.
 
 ## CONTROLS
 - WASD to move.
